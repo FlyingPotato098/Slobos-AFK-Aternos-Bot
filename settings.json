@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Gofifiehtuht.aternos.me",
+    "ip": "Gofifiehtuht.aternos.me:44405",
     "port": 44405,
     "version": "26.1.1",
     "try-creative": false
